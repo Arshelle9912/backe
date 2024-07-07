@@ -6,3 +6,4 @@ cloudinary
 uuid
 bcrypt
 jwt
+psycopg2
