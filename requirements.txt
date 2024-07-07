@@ -7,3 +7,4 @@ uuid
 bcrypt
 jwt
 psycopg2
+databases
