@@ -6,4 +6,3 @@ cloudinary
 uuid
 bcrypt
 jwt
-sqlalchemy.ext.declarative
