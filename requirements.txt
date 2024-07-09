@@ -8,3 +8,4 @@ bcrypt
 pyjwt
 psycopg2-binary
 databases
+asyncpg
