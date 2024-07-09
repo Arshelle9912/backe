@@ -9,7 +9,6 @@ from fastapi import APIRouter
 from sqlalchemy.orm import Session
 from pydantic_schemas.user_login import UserLogin
 import jwt
-from jwt.exceptions import PyJWTError
 
 from sqlalchemy.orm import joinedload
 router = APIRouter()
